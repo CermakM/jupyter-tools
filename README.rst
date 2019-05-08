@@ -4,7 +4,7 @@
 
 Tools and utilities to improve your experience with Jupyter Notebooks.
 
-  DEPRECATION WARNING:
+  \:warning: **DEPRECATION WARNING:**
   
   `jupyter-tools` repository is now deprecated, as the naming was conflicting with an existing PyPI package.
   
